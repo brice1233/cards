@@ -1,0 +1,17 @@
+.card-area{
+    display:flex;
+    flex-wrap:wrap;
+}
+.card{
+    width:400px;
+    min-height: 100px;
+    background-color: orange;
+    border: 1px solid green;
+}
+.name{
+    fort-weight:bold;
+    margin:0 0 4px 0;
+}
+.job{
+    color:red;
+}
